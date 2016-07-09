@@ -2,6 +2,8 @@ name: sethytech
 desctiption: This is custom sethytech
 type: theme
 core: 8.x
+libraries:
+    - sethytech/global-css
 stylesheets-remove:
     - core/themes/stable/css/views/views.module.css
     - core/themes/stable/css/system/components/align.module.css 
